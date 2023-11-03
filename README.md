@@ -1,6 +1,7 @@
 A Rapid Screening Method for Suspected Defects in Steel Pipe Welds by Combining Correspondence Mechanism and Normalizing Flow
 
-![图片18](https://github.com/meiguiz/SISG-Net/assets/90629126/9fcdc737-ca33-4899-bd70-f0eea9726160)
+<img width="972" alt="方法图" src="https://github.com/aoihd/RSM/assets/141041853/431bc7ee-4c5d-4f04-85ff-6535eef80999">
+
 
 ![4](https://github.com/meiguiz/SISG-Net/assets/90629126/45422f9a-5495-4f1e-a03e-2c2958ed1b43)
 ![5](https://github.com/meiguiz/SISG-Net/assets/90629126/c43d4be2-edf5-42f9-b2f4-a39c3a27bf01)
