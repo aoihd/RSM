@@ -1,4 +1,4 @@
-A Rapid Screening Method for Suspected Defects in Steel Pipe Welds by Combining Correspondence Mechanism and Normalizing Flow
+Title: A Rapid Screening Method for Suspected Defects in Steel Pipe Welds by Combining Correspondence Mechanism and Normalizing Flow
 
 The supplementary material (video) of our method can be found at: https://www.bilibili.com/video/BV1nu4y1a7LT
 
