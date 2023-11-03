@@ -4,10 +4,11 @@ The supplementary material (video) of our method can be found at: https://www.bi
 <img width="972" alt="方法图" src="https://github.com/aoihd/RSM/assets/141041853/431bc7ee-4c5d-4f04-85ff-6535eef80999">
 
 
-
+User interface
 ![微信图片_20231030230537](https://github.com/aoihd/RSM/assets/141041853/68b73612-ac09-4890-8a04-e9f39414e975)
 
 
-
+Demo 
+![demo1-Compressed-with-FlexClip](https://github.com/aoihd/RSM/assets/141041853/b9176525-7fc3-43aa-8f5c-c8733d850fa3)
 
 
