@@ -4,7 +4,6 @@ The supplementary material (video) of our method can be found at: https://www.bi
 <img width="972" alt="方法图" src="https://github.com/aoihd/RSM/assets/141041853/431bc7ee-4c5d-4f04-85ff-6535eef80999">
 
 
-![4](https://github.com/meiguiz/SISG-Net/assets/90629126/45422f9a-5495-4f1e-a03e-2c2958ed1b43)
 
 ![微信图片_20231030230537](https://github.com/aoihd/RSM/assets/141041853/68b73612-ac09-4890-8a04-e9f39414e975)
 
