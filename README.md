@@ -11,7 +11,7 @@ User interface
 ![微信图片_20231030230537](https://github.com/aoihd/RSM/assets/141041853/68b73612-ac09-4890-8a04-e9f39414e975)
 
 
-Demo 
+Demo (There is a certain amount of frame drop in the demo, you can directly click on the link to watch our video. Thank you for watching.)
 ![demo1-Compressed-with-FlexClip](https://github.com/aoihd/RSM/assets/141041853/b9176525-7fc3-43aa-8f5c-c8733d850fa3)
 
 ![demo2-Compressed-with-FlexClip](https://github.com/aoihd/RSM/assets/141041853/1ed1b713-a2e7-4f64-b164-4c98fe9d32c8)
