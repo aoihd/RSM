@@ -5,6 +5,7 @@ A Rapid Screening Method for Suspected Defects in Steel Pipe Welds by Combining 
 ![4](https://github.com/meiguiz/SISG-Net/assets/90629126/45422f9a-5495-4f1e-a03e-2c2958ed1b43)
 ![5](https://github.com/meiguiz/SISG-Net/assets/90629126/c43d4be2-edf5-42f9-b2f4-a39c3a27bf01)
 ![6](https://github.com/meiguiz/SISG-Net/assets/90629126/6dd35863-37a4-44ab-b742-08cf11dc7ffd)
+![demo](https://github.com/aoihd/RSM/assets/141041853/3ddeb7cb-8319-4646-b8aa-fa7a6b14b6a7)
 
 
 The video of our experiment used in this paper can be found at: https://youtu.be/G_8USOwFXVs
