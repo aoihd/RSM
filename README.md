@@ -1,4 +1,4 @@
-SISG-Net:Simultaneous Instance Segmentation and Grasp Detection for Robot Grasp in Clutter
+A Rapid Screening Method for Suspected Defects in Steel Pipe Welds by Combining Correspondence Mechanism and Normalizing Flow
 
 ![图片18](https://github.com/meiguiz/SISG-Net/assets/90629126/9fcdc737-ca33-4899-bd70-f0eea9726160)
 
