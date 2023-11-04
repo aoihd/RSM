@@ -10,6 +10,8 @@ We will publish our code soon.
 User interface
 ![微信图片_20231030230537](https://github.com/aoihd/RSM/assets/141041853/68b73612-ac09-4890-8a04-e9f39414e975)
 
+![界面演示](https://github.com/aoihd/RSM/assets/141041853/2a68be2a-7dd6-443e-9434-5cb9012c0901)
+
 
 Demo (The video was made into a demo while some changes occurred, such as frame rate drop, resolution drop, etc. You can directly click on the link to watch our video. Thank you for your watching.)
 ![demo1-Compressed-with-FlexClip](https://github.com/aoihd/RSM/assets/141041853/b9176525-7fc3-43aa-8f5c-c8733d850fa3)
