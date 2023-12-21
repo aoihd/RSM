@@ -1,9 +1,9 @@
-Title: A Two-stage Real-time Discrimination Method for Spiral Weld Defects under Dynamic Fuzzy Imaging
-
+Title: A Rapid Screening Method for Suspected Defects in Steel Pipe Welds by Combining Correspondence Mechanism and Normalizing Flow
 The supplementary material (video) of our method can be found at: https://www.bilibili.com/video/BV1nu4y1a7LT
 
 We will publish our code soon.
-![Uploading image.png…]()
+
+![Uploading 1703165414971.png…]()
 
 
 
