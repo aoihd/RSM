@@ -3,8 +3,9 @@ Title: A Rapid Screening Method for Suspected Defects in Steel Pipe Welds by Com
 
 The supplementary material (video) of our method can be found at: https://www.bilibili.com/video/BV1nu4y1a7LT
 
-All defect images can be found at: https://pan.baidu.com/s/12FwOAUF-t9S1JvjddbdFQg 
-password：te9x
+All defect images can be found at: https://pan.baidu.com/s/1-qM-CVTsBcnjglNJwNkLyQ?pwd=w4ho 
+password：：w4ho 
+
 
 We will publish our code and dataset soon.
 <img width="972" alt="方法图" src="https://github.com/aoihd/RSM/assets/141041853/431bc7ee-4c5d-4f04-85ff-6535eef80999">
