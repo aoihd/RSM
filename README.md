@@ -23,7 +23,7 @@ We have published our code and dataset.
 ![demo3-Compressed-with-FlexClip](https://github.com/aoihd/RSM/assets/141041853/ac4a4fb2-17a8-45e2-bb3b-855a38905898)
 
 # Supplementary material 
-The supplementary material (video) of our method can be found at  [BaiduYun Drive](https://pan.baidu.com/s/1-qM-CVTsBcnjglNJwNkLyQ?pwd=w4ho) (code: w4ho)
+The supplementary material (video) of our method can be found at  [Bilibili](https://www.bilibili.com/video/BV1nu4y1a7LT/?spm_id_from=333.999.0.0&vd_source=45851bb181919ee4d60baaf775e9e169)
 # SSPWX-ray Dataset 
 Dataset  can be found at [BaiduYun Drive](https://pan.baidu.com/s/1-qM-CVTsBcnjglNJwNkLyQ?pwd=w4ho) (code: w4ho)
 # Main results
