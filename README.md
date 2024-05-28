@@ -1,13 +1,14 @@
 # RSM
-Title: A Rapid Screening Method for Suspected Defects in Steel Pipe Welds by Combining Correspondence Mechanism and Normalizing Flow
+# Title: A Rapid Screening Method for Suspected Defects in Steel Pipe Welds by Combining Correspondence Mechanism and Normalizing Flow
+
 
 The supplementary material (video) of our method can be found at: https://www.bilibili.com/video/BV1nu4y1a7LT
 
-All defect images can be found at: https://pan.baidu.com/s/1-qM-CVTsBcnjglNJwNkLyQ?pwd=w4ho 
+Dataset can be found at: https://pan.baidu.com/s/1-qM-CVTsBcnjglNJwNkLyQ?pwd=w4ho 
 password：：w4ho 
 
 
-We will publish our code and dataset soon.
+We have published our code and dataset.
 <img width="972" alt="方法图" src="https://github.com/aoihd/RSM/assets/141041853/431bc7ee-4c5d-4f04-85ff-6535eef80999">
 
 
@@ -25,3 +26,29 @@ Demo (The video was made into a demo while some changes occurred, such as frame 
 
 ![demo3-Compressed-with-FlexClip](https://github.com/aoihd/RSM/assets/141041853/ac4a4fb2-17a8-45e2-bb3b-855a38905898)
 
+
+
+# Main results
+The main experimental results are provided in [BaiduYun Drive](https://pan.baidu.com/s/1-qM-CVTsBcnjglNJwNkLyQ?pwd=w4ho) (code: w4ho)
+
+# Training
+1. Download the pre-trained model Swin-T [BaiduYun Drive](https://pan.baidu.com/s/1-qM-CVTsBcnjglNJwNkLyQ?pwd=w4ho) (code: w4ho)
+2. Modify the configuration in `main.py`
+3. Run `python main.py` to start training
+# Testing
+1. Modify the configuration in `main.py` and `utils.py`
+2. Run `python main.py` to start testing
+
+# Citation
+```
+@ARTICLE{10538047,
+  author={Cui, Wenqi and Song, Kechen and Wang, Yanyan and Lv, Guotong and Yan, Yunhui and Yu, Han and Li, Xingjie},
+  journal={IEEE Transactions on Industrial Informatics}, 
+  title={A Rapid Screening Method for Suspected Defects in Steel Pipe Welds by Combining Correspondence Mechanism and Normalizing Flow}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-10},
+  keywords={Welding;Image reconstruction;Feature extraction;Transformers;Radiography;Decoding;Training;Penetration state recognition;quality monitoring;steel pipe weld;visual inspection},
+  doi={10.1109/TII.2024.3399934}}
+```
