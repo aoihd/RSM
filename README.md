@@ -53,12 +53,12 @@ This paper improves and innovates on the basis of RCN.
   keywords={Welding;Image reconstruction;Feature extraction;Transformers;Radiography;Decoding;Training;Penetration state recognition;quality monitoring;steel pipe weld;visual inspection},
   doi={10.1109/TII.2024.3399934}}
 @ARTICLE{10013944,
-author={Wang, Yanyan and Niu, Menghui and Song, Kechen and Jiang, Peng and Yan, Yunhui},
-journal={IEEE Transactions on Intelligent Transportation Systems}, 
-title={Normal-Knowledge-Based Pavement Defect Segmentation Using Relevance-Aware and Cross-Reasoning Mechanisms}, 
-year={2023},
-volume={24},
-number={4},
-pages={4413-4427},
-doi={10.1109/TITS.2023.3234330}}
+ author={Wang, Yanyan and Niu, Menghui and Song, Kechen and Jiang, Peng and Yan, Yunhui},
+ journal={IEEE Transactions on Intelligent Transportation Systems}, 
+ title={Normal-Knowledge-Based Pavement Defect Segmentation Using Relevance-Aware and Cross-Reasoning Mechanisms}, 
+ year={2023},
+ volume={24},
+ number={4},
+ pages={4413-4427},
+ doi={10.1109/TITS.2023.3234330}}
 ```
