@@ -2,10 +2,6 @@
 # Title: A Rapid Screening Method for Suspected Defects in Steel Pipe Welds by Combining Correspondence Mechanism and Normalizing Flow
 
 
-The supplementary material (video) of our method can be found at: https://www.bilibili.com/video/BV1nu4y1a7LT
-
-Dataset can be found at: https://pan.baidu.com/s/1-qM-CVTsBcnjglNJwNkLyQ?pwd=w4ho 
-password：：w4ho 
 
 
 We have published our code and dataset.
@@ -27,7 +23,11 @@ Demo (The video was made into a demo while some changes occurred, such as frame 
 ![demo3-Compressed-with-FlexClip](https://github.com/aoihd/RSM/assets/141041853/ac4a4fb2-17a8-45e2-bb3b-855a38905898)
 
 
-
+# Supplementary material 
+The supplementary material (video) of our method can be found at: https://www.bilibili.com/video/BV1nu4y1a7LT
+# SSPWX-ray Dataset 
+can be found at: https://pan.baidu.com/s/1-qM-CVTsBcnjglNJwNkLyQ?pwd=w4ho 
+password：：w4ho 
 # Main results
 The main experimental results are provided in [BaiduYun Drive](https://pan.baidu.com/s/1-qM-CVTsBcnjglNJwNkLyQ?pwd=w4ho) (code: w4ho)
 
