@@ -36,9 +36,9 @@ This paper improves and innovates on the basis of RCN.
   journal={IEEE Transactions on Industrial Informatics}, 
   title={A Rapid Screening Method for Suspected Defects in Steel Pipe Welds by Combining Correspondence Mechanism and Normalizing Flow}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-10},
+  volume={20},
+  number={9},
+  pages={11171-11180},
   keywords={Welding;Image reconstruction;Feature extraction;Transformers;Radiography;Decoding;Training;Penetration state recognition;quality monitoring;steel pipe weld;visual inspection},
   doi={10.1109/TII.2024.3399934}}
 @ARTICLE{10013944,
