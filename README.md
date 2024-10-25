@@ -15,7 +15,7 @@ We have published our code and dataset.
 You can directly click on the link to watch our video. Thank you for your watching.
 The supplementary material (video) of our method can be found at  [Bilibili](https://www.bilibili.com/video/BV1nu4y1a7LT/?spm_id_from=333.999.0.0&vd_source=45851bb181919ee4d60baaf775e9e169)
 # SSPWX-ray Dataset and Code
-Dataset  can be found at [BaiduYun Drive](https://pan.baidu.com/s/1-qM-CVTsBcnjglNJwNkLyQ?pwd=w4ho) (code: w4ho)
+Dataset  and code can be found at [BaiduYun Drive](https://pan.baidu.com/s/1-qM-CVTsBcnjglNJwNkLyQ?pwd=w4ho) (code: w4ho)
 # Main results
 The main experimental results are provided in [BaiduYun Drive](https://pan.baidu.com/s/1-qM-CVTsBcnjglNJwNkLyQ?pwd=w4ho) (code: w4ho)
 
