@@ -1,19 +1,9 @@
 # RSM
 # Title: A Rapid Screening Method for Suspected Defects in Steel Pipe Welds by Combining Correspondence Mechanism and Normalizing Flow
 
+We have published our code and dataset. Our other methods can be found in the [link](https://github.com/SD-Weld) .
 
 
-
-We have published our code and dataset.
-<img width="972" alt="方法图" src="https://github.com/aoihd/RSM/assets/141041853/431bc7ee-4c5d-4f04-85ff-6535eef80999">
-
-
-
-
-
-# Supplementary material
-You can directly click on the link to watch our video. Thank you for your watching.
-The supplementary material (video) of our method will be public.
 # SSPWX-ray Dataset and Code
 Dataset  and code can be found at [BaiduYun Drive](https://pan.baidu.com/s/1-qM-CVTsBcnjglNJwNkLyQ?pwd=w4ho) (code: w4ho)
 # Main results
